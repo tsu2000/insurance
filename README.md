@@ -10,4 +10,4 @@ A simple web application for exploring various regression models to predict insu
 
 **Link to Web App**:
 
-[<img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg">](<https://insurance-ml.app>)
+[<img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg">](<https://insurance-ml.streamlit.app>)
